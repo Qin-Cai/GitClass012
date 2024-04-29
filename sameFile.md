@@ -1,6 +1,4 @@
 
 * qwert
-<<<<<<
-* jjfke
-=======
-* sjf
+* sjfe
+* ejwoo
